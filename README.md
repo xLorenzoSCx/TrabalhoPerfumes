@@ -44,11 +44,11 @@ Os exercícios foram desenvolvidos para consolidar o aprendizado e podem ser uti
 ## 📂 Estrutura do Repositório
 
 ```bash
-📂 nome-do-repositorio
+📂 TrabalhoPerfumes
 ├── 📁 src/main/java
-│   ├── 📁 com.exemplo.exercicios
-│   │   ├── Exercicio01.java
-│   │   ├── Exercicio02.java
+│   ├── 📁 projetoperfumefinal
+│   │   ├── ProjetoPerfumeFinal.java
+│   │   ├── PerfumeList.java
 │   │
 ├── 📄 README.md
 └── 📄 .gitignore
